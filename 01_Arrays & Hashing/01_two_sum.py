@@ -19,12 +19,12 @@ class Solution(object):
             elements[complement] = i
 
 
-# Bloque de prueba local
+# Prueba
 if __name__ == "__main__":
     # 1. Instanciar la clase
     solucion = Solution()
     
-    # 2. Definir los datos de entrada (tu example 1)
+    # 2. Definir los datos de entrada 
     nums_test = [2, 7, 11, 15]
     target_test = 9
     
